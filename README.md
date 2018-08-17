@@ -1,2 +1,2 @@
 # Magnificent-Maniacs
-Simple meddical assistant using Speecch_recognition module 
+Simple medical assistant using Speecch_recognition module 
